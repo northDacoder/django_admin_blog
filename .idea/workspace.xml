@@ -26,7 +26,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin_tutorial/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="17" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="1410">
+            <state line="39" column="11" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="1410">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+            <state line="24" column="42" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -43,19 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0001_initial.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/migrations/0001_initial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="20" selection-start="381" selection-end="381" vertical-scroll-proportion="0.3442623" vertical-offset="0" max-vertical-offset="610">
+            <state line="18" column="28" selection-start="587" selection-end="587" vertical-scroll-proportion="0.44262296" vertical-offset="0" max-vertical-offset="610">
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -199,6 +190,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager" selected="Django server.admin_tutorial">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -454,9 +446,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin_tutorial/settings.py">
+    <entry file="file://$PROJECT_DIR$/admin_tutorial/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="17" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="1410">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_tutorial/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
           <folding />
         </state>
       </provider>
@@ -477,9 +476,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin_tutorial/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="11" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+        <state line="24" column="42" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
@@ -488,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="20" selection-start="381" selection-end="381" vertical-scroll-proportion="0.3442623" vertical-offset="0" max-vertical-offset="610">
+        <state line="18" column="28" selection-start="587" selection-end="587" vertical-scroll-proportion="0.44262296" vertical-offset="0" max-vertical-offset="610">
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
