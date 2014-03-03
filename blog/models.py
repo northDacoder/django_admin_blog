@@ -8,6 +8,11 @@ class BlogCategory(models.Model):
     def __unicode__(self):
         return self.name
 
+class BlogTag(models.Model):
+    name = models.CharField(max_length=20)
+
+    def __unicode__(self):
+        return self.name
 
 class BlogPost(models.Model):
     title = models.CharField(max_length=100)
@@ -16,6 +21,7 @@ class BlogPost(models.Model):
     posted = models.DateTimeField(auto_now=True)
     url = models.SlugField()
     category = models.ForeignKey(BlogCategory)
+    tag = models.ManyToManyField("BlogTag", null=True)
 
     def __unicode__(self):
         return self.title
